@@ -24,11 +24,15 @@ print(YoungMa.tuas)
 print(YoungMa.mode)
 print(YoungMa.temperature)
 print(Ricecooker.jumlah)
+
+print('______________________________________________')
 Cosmo= ModernRicecooker('Cosmo', 'OFF', 'Warm', 70)
 print(Cosmo.nama_merk)
 print(Cosmo.tuas)
 print(Cosmo.mode)
 print(Cosmo.temperature)
 print(Ricecooker.jumlah)
+print('______________________________________________')
+
 
 
